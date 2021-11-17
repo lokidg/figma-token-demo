@@ -1,1 +1,1 @@
-# figma-token-demo
+# Figma Token demo integration
